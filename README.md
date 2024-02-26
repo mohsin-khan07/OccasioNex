@@ -1,4 +1,4 @@
-# React + Vite
+# OccasioNex - Event Mangement Software
 
 Coming Soon!
 
